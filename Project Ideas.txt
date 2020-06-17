@@ -1,3 +1,0 @@
-Android App
-Email Meeting Reminder
-Robot Simulator using ROS/SLAM
